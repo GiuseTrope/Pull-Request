@@ -1,0 +1,6 @@
+body {
+    background-color: blue;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-feature-settings: "abvs";
+    width: 50px;
+}
